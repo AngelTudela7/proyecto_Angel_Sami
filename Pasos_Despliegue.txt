@@ -1,0 +1,3 @@
+1-Te instalas "composer" esto vale para hacer comandos en laravel en plan "php:artisan migrate" o cosas del estilo
+2-Dentro del proyecto abres la consola en el vscode o si prefieres en la terminal PERO SIEMPRE DENTRO DEL PROYECTO ejecutas "php artisan install:api"
+3-Una vez hecho eso pruebas la url que te da la consola y le pones detras "/api/listado:usuarios" EJEMPLO: http://127.0.0.1:8000/api/listado_usuarios
